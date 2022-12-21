@@ -5,7 +5,7 @@
 		<title></title>
 		<style type="text/css">
 			*{
-				font-family: "微软雅黑";
+							font-family: "微软雅黑";
 							padding: 0;
 							margin: 0;
 							border: none;
@@ -99,8 +99,8 @@
 					 <div class="Box">
 						 <div class="title"><a href="#">图文混排</a></div>
 						 <h2><a href="#">web前端设计基础教程</a></h2>
-			 <div class="BoxCon Clearfix">
-				 <div class="BoxPic f1"><a href="#"><imgsrc="images/LMG_0896.JPG" width="120" height="118"><\a>
+						 <div class="BoxCon Clearfix">
+							 <div class="BoxPic f1"><a href="#"><imgsrc="images/LMG_0896.JPG" width="120" height="118"><\a>
 							 </div>
 							 <div class="BoxTxt f1">
 								 <ul>
